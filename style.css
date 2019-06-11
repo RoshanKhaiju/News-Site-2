@@ -1,0 +1,106 @@
+h1,h2,h3,h4,h5,h6,p,a{
+    color: #000;
+    text-align: justify;
+}
+a:hover{
+    color: darkred;
+    text-decoration: none;
+}
+.full-story{
+    color: darkred;
+    text-align: right;
+}
+hr{
+    border-bottom: 1px solid #000;
+}
+.clear{
+    clear: both;
+}
+.title{
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 5px 10px;
+    margin-top: 20px;
+}
+
+
+.top-head{
+    text-align: center;
+}
+.top-head img{
+    width: 50%; 
+}
+
+
+.navbar{
+    background: none;
+}
+#myNavbar li a:hover{
+    color: darkred;
+}
+
+
+.content .content-left{
+    border-right: 1px solid #000;
+}
+.content-left{
+    margin-right: 0px;
+}
+
+.side-news img, .main-news img, .entertainment-side img, .general img, .interview img, .health-side img{
+    float: left;
+    height: 50px;
+    margin-right: 4px;
+    margin-bottom: 2px;
+}
+
+.sprts{
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow-y: hidden;
+}
+
+
+.world img, .photo-features img, .sports img{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+
+.fictionpark-escalate li, .general li{
+    list-style: none;
+}
+
+.saturday-1, .saturday-2{
+    border-right: 1px solid #000;
+}
+
+.time{
+    font-size: 17px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 15px;
+}
+.site{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-color: #ccc;
+}
+.bold{
+    font-weight: bold;
+    text-align: center;
+}
+
+.footer{
+    background-color: aliceblue;
+    margin-top: 50px;
+}
+.footer h4{
+    margin-bottom: -14px;
+}
+.footer .container{
+    padding-top: 20px;
+}
